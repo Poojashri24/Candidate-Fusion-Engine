@@ -3,8 +3,6 @@ __pycache__/
 .venv/
 .env
 
-output/canonical_profiles.json
-output/
 
 .streamlit/
 
