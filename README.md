@@ -365,11 +365,21 @@ Each profile contains:
 
 ---
 
+## 🚀 Live Demo
+
+**Streamlit App**
+
+https://candidate-fusion-engine-hwvkvqfrsrecxi2uwaqjjp.streamlit.app/
+
+Explore the Candidate Fusion Engine through the interactive Streamlit dashboard.
+
+---
+
 # Author
 
 **Poojashri D**
 
-Backend Developer | AI & Software Engineering Enthusiast
+Software Developer | AI & Software Engineering Enthusiast
 
 GitHub: https://github.com/Poojashri24
 
