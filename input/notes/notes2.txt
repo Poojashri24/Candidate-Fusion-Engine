@@ -1,0 +1,5 @@
+Candidate: Sneha
+
+Expected Role: Frontend Developer
+
+Preferred Location: Pune

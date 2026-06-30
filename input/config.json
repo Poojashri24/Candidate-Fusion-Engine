@@ -1,0 +1,21 @@
+{
+    "fields": [
+        "candidate_id",
+        "full_name",
+        "headline",
+        "emails",
+        "phones",
+        "location",
+        "skills",
+        "experience",
+        "education"
+    ],
+
+    "include_confidence": true,
+
+    "include_provenance": true,
+
+    "include_decision_log": true,
+
+    "include_sources": true
+}
